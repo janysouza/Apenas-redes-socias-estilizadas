@@ -1,6 +1,2 @@
- Apenas-redes-socias-estilizadas e um pouquinho de CSS.
+ Apenas redes socias estilizadas com um pouquinho de efeito CSS no ultimo botão ao passar o mouse.
 
-Link das minhas redes sociais estilazadas no ar...
-
-
-https://janysouza.github.io/Apenas-redes-socias-estilizadas/
